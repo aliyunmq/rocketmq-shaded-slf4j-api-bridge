@@ -35,7 +35,7 @@ public class BridgeServiceProvider implements SLF4JServiceProvider {
         // Another reason why we print the log here is to make sure the real implementation we want to bridge is loaded.
         logger.debug("Try to find shaded SLF4j service provider.");
         try {
-            final Method method = org.slf4j.LoggerFactory.class.getDeclaredMethod("getProvider");
+            final Method method = LoggerFactory.class.getDeclaredMethod("getProvider");
             method.setAccessible(true);
             this.delegate = (org.apache.rocketmq.logging.org.slf4j.spi.SLF4JServiceProvider) method.invoke(null);
             logger.debug("Found shaded SLF4j service provider.");

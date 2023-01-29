@@ -55,7 +55,7 @@ determine whether to release it.
 ## Related Projects
 
 * [rocketmq-logging](https://github.com/aliyunmq/rocketmq-logging): Logging for Apache RocketMQ.
-* [rocketmq-slf4j-api-bridg](https://github.com/aliyunmq/rocketmq-slf4j-api-bridge): Bridge for SLF4J API of Apache RocketMQ.
+* [rocketmq-slf4j-api-bridge](https://github.com/aliyunmq/rocketmq-slf4j-api-bridge): Bridge for SLF4J API of Apache RocketMQ.
 
 ## License
 

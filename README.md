@@ -55,6 +55,7 @@ determine whether to release it.
 ## Related Projects
 
 * [rocketmq-logging](https://github.com/aliyunmq/rocketmq-logging): Logging for Apache RocketMQ.
+* [rocketmq-slf4j-api-bridg](https://github.com/aliyunmq/rocketmq-slf4j-api-bridge): Bridge for SLF4J API of Apache RocketMQ.
 
 ## License
 
@@ -64,10 +65,10 @@ determine whether to release it.
 
 [license-url]: https://www.apache.org/licenses/LICENSE-2.0.html
 
-[build-image]: https://github.com/aliyunmq/rocketmq-slf4j-api-bridge/actions/workflows/build.yml/badge.svg
+[build-image]: https://github.com/aliyunmq/rocketmq-shaded-slf4j-api-bridge/actions/workflows/build.yml/badge.svg
 
-[build-url]: https://github.com/aliyunmq/rocketmq-slf4j-api-bridge/actions/workflows/build.yml
+[build-url]: https://github.com/aliyunmq/rocketmq-shaded-slf4j-api-bridge/actions/workflows/build.yml
 
-[maven-image]: https://maven-badges.herokuapp.com/maven-central/io.github.aliyunmq/rocketmq-slf4j-api-bridge/badge.svg
+[maven-image]: https://maven-badges.herokuapp.com/maven-central/io.github.aliyunmq/rocketmq-shaded-slf4j-api-bridge/badge.svg
 
-[maven-url]: https://maven-badges.herokuapp.com/maven-central/io.github.aliyunmq/rocketmq-slf4j-api-bridge
+[maven-url]: https://maven-badges.herokuapp.com/maven-central/io.github.aliyunmq/rocketmq-shaded-slf4j-api-bridge

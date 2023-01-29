@@ -76,8 +76,8 @@
     </profiles>
 
     <scm>
-        <url>git@github.com:aliyunmq/rocketmq-slf4j-api-bridge.git</url>
-        <connection>scm:git:git@github.com:aliyunmq/rocketmq-slf4j-api-bridge.git</connection>
-        <developerConnection>scm:git:git@github.com:aliyunmq/rocketmq-slf4j-api-bridge.git</developerConnection>
+        <url>git@github.com:aliyunmq/rocketmq-shaded-slf4j-api-bridge.git</url>
+        <connection>scm:git:git@github.com:aliyunmq/rocketmq-shaded-slf4j-api-bridge.git</connection>
+        <developerConnection>scm:git:git@github.com:aliyunmq/rocketmq-shaded-slf4j-api-bridge.git</developerConnection>
     </scm>
 </project>
